@@ -1,0 +1,45 @@
+body {
+    background-color: #212121;
+    color: #00ff00;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    font-family: math;
+    font-size: 2rem;
+}
+.container {
+    border-radius: 5px;
+    border: 8px solid white;
+    box-sizing: border-box;
+    font-family: 'Digital', sans-serif; 
+    text-align: center;
+    position: absolute;
+    top: 8rem;
+    left: 50%;
+    transform: translateX(-50%);
+    line-height: 5rem;
+    width: 80%;
+    max-width: 30rem;
+    padding: 1rem;
+}
+
+#timer {
+    width: 100%;
+    height: 74px;
+    border: 1px solid #00ff00; 
+    border-radius: 5px;
+    background-color: chartreuse;
+    color: #212121;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+@media only screen and (max-width: 600px) {
+    .container {
+        width: 90%;
+    }
+}
