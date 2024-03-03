@@ -1,5 +1,5 @@
 # DIGITAL CLOCK
-![Digital Clock](image/Digital%20clock.png)
+![Digital clock](https://github.com/Nitesh1255/Digital-Clock/assets/119393883/a9da4a0f-4887-4b4f-ad05-7b08b823dfc8)
 
 A simple digital clock project that displays your local time. The project is built with HTML, CSS, and JavaScript.
 
